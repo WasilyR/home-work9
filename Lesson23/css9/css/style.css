@@ -1,0 +1,32 @@
+.wrapper {
+	padding: 100px 100px 30vh;
+	height: 100vh;
+}
+
+.block {
+	height: 100%;
+	box-shadow: 0 0 10px rgb(83, 83, 83);
+	border-radius: 5px;
+}
+
+.wrapper-1 {
+	padding: 100px 100px 30vh;
+	height: 100vh;
+}
+
+.block-1 {
+	height: 100%;
+	box-shadow: 0 0 10px rgb(83, 83, 83);
+	border-radius: 5px;
+}
+
+
+.block {
+	background: url(../images/dog.jpg) 50% 50% /auto no-repeat, linear-gradient(#88b461, #1d87a4);
+}
+
+.block-1 {
+	background-image: url(../images/laptop.jpg), linear-gradient(#febbbb 0%, #fe9090 45%, #ff5c5c 100%);
+	background-position: center;
+	background-repeat: no-repeat;
+}
